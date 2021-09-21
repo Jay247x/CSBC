@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-!https://github.com/Jay247x/CSBC/blob/main/Diagrams/ELK_Diagram.png
+!Images/ELK_Diagram.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
 Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
@@ -73,7 +73,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-!https://github.com/Jay247x/CSBC/blob/main/Images/docker_ps_output.png
+!Images/docker_ps_output.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
